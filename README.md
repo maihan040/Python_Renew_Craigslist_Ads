@@ -9,20 +9,20 @@ refresh your listings to avoid them becoming expired.
 
 Motivation for this project was twofold: 
   
-  * Bullet list Learn more about web automation and python
-  * Bullet list Build a tool that saves times from not having to do repeated tasks
+  * Learn more about web automation and python
+  * Build a tool that saves times from not having to do repeated tasks
 
 ## Tech/framework used:
 
-  * Bullet list Python version 3.8.5
-  * Bullet list Selenium 
-  * Bullet list Geckodriver (browser engine for firefox)
+  * Python version 3.8.5
+  * Selenium 3.141.0
+  * Geckodriver (browser engine for firefox)
  
 ## Features:
 
 In order for the script to work, user would have have to populate all the "<>" fields in the config.py file such as username and password. 
 
 ## Contents:
-  * Bullet list renewCraigslist.py - main script which has the entire implementation 
-  * Bullet list config - directory which has the config.py file
-  * Bullet list .gitignore - list of files which are not beeing tracked currently 
+  * renewCraigslist.py - main script which has the entire implementation 
+  * config - directory which has the config.py file
+  * .gitignore - list of files which are not beeing tracked currently 
