@@ -17,12 +17,12 @@ Motivation for this project was twofold:
   * Python version 3.8.5
   * Selenium 3.141.0
   * Geckodriver (browser engine for firefox)
- 
-## Features:
-
-In order for the script to work, user would have have to populate all the "<>" fields in the config.py file such as username and password. 
 
 ## Contents:
   * renewCraigslist.py - main script which has the entire implementation 
   * config - directory which has the config.py file
   * .gitignore - list of files which are not beeing tracked currently 
+ 
+## Directions:
+
+In order for the script to work, user would have have to populate all the "<>" fields in the config.py file such as username and password. 
